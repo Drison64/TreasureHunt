@@ -1,0 +1,4 @@
+name: TreasureHunt
+version: ${project.version}
+main: me.drison64.treasurehunt.Main
+api-version: 1.16
